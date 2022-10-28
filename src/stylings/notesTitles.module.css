@@ -1,0 +1,7 @@
+li{
+	color: blue;
+	cursor: pointer;
+}
+li:hover{
+	text-decoration: underline;
+}
